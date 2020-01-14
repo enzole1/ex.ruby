@@ -1,1 +1,1 @@
-xscsdc
+puts "bonjour, monde !"
